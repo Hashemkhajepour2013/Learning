@@ -1,0 +1,14 @@
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Common\bin\Debug\net6.0\WebApp.Common.deps.json
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Common\bin\Debug\net6.0\WebApp.Common.dll
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Common\bin\Debug\net6.0\WebApp.Common.pdb
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Common\obj\Debug\net6.0\WebApp.Common.csproj.AssemblyReference.cache
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Common\obj\Debug\net6.0\WebApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Common\obj\Debug\net6.0\WebApp.Common.AssemblyInfoInputs.cache
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Common\obj\Debug\net6.0\WebApp.Common.AssemblyInfo.cs
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Common\obj\Debug\net6.0\WebApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Common\obj\Debug\net6.0\WebApp.Common.dll
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Common\obj\Debug\net6.0\refint\WebApp.Common.dll
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Common\obj\Debug\net6.0\WebApp.Common.pdb
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Common\obj\Debug\net6.0\ref\WebApp.Common.dll
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Common\bin\Debug\net6.0\WebApp.Common.runtimeconfig.json
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Common\obj\Debug\net6.0\WebApp.Common.genruntimeconfig.cache

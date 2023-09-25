@@ -1,0 +1,17 @@
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Data\bin\Debug\net6.0\WebApp.Data.deps.json
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Data\bin\Debug\net6.0\WebApp.Data.dll
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Data\bin\Debug\net6.0\WebApp.Data.pdb
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Data\obj\Debug\net6.0\WebApp.Data.csproj.AssemblyReference.cache
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Data\obj\Debug\net6.0\WebApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Data\obj\Debug\net6.0\WebApp.Data.AssemblyInfoInputs.cache
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Data\obj\Debug\net6.0\WebApp.Data.AssemblyInfo.cs
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Data\obj\Debug\net6.0\WebApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Data\obj\Debug\net6.0\WebApp.Data.dll
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Data\obj\Debug\net6.0\refint\WebApp.Data.dll
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Data\obj\Debug\net6.0\WebApp.Data.pdb
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Data\obj\Debug\net6.0\ref\WebApp.Data.dll
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Data\bin\Debug\net6.0\WebApp.Common.dll
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Data\bin\Debug\net6.0\WebApp.Entities.dll
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Data\bin\Debug\net6.0\WebApp.Entities.pdb
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Data\bin\Debug\net6.0\WebApp.Common.pdb
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Data\obj\Debug\net6.0\WebApp.Data.csproj.CopyComplete

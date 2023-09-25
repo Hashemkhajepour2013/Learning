@@ -1,0 +1,15 @@
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Entities\bin\Debug\net6.0\WebApp.Entities.deps.json
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Entities\bin\Debug\net6.0\WebApp.Entities.dll
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Entities\bin\Debug\net6.0\WebApp.Entities.pdb
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Entities\obj\Debug\net6.0\WebApp.Entities.csproj.AssemblyReference.cache
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Entities\obj\Debug\net6.0\WebApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Entities\obj\Debug\net6.0\WebApp.Entities.AssemblyInfoInputs.cache
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Entities\obj\Debug\net6.0\WebApp.Entities.AssemblyInfo.cs
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Entities\obj\Debug\net6.0\WebApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Entities\obj\Debug\net6.0\WebApp.Entities.dll
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Entities\obj\Debug\net6.0\refint\WebApp.Entities.dll
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Entities\obj\Debug\net6.0\WebApp.Entities.pdb
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Entities\obj\Debug\net6.0\ref\WebApp.Entities.dll
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Entities\bin\Debug\net6.0\WebApp.Common.dll
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Entities\bin\Debug\net6.0\WebApp.Common.pdb
+C:\Users\hashem\Desktop\WebApplication1\WebApp.Entities\obj\Debug\net6.0\WebApp.Entities.csproj.CopyComplete
